@@ -2,8 +2,8 @@
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ptd3v/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ptd3v&show_icons=true&hide=prs&theme=transparent&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ptd3v&show_icons=true&hide=prs&theme=react&rank_icon=github" />
 </a>
 <a href="https://github.com/ptd3v/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptd3v&layout=compact&theme=transparent&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptd3v&layout=compact&theme=react" />
 </a>
