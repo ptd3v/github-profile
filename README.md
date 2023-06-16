@@ -3,6 +3,5 @@ My name is Paul, a Computer Science graduate with an MBA, seeking a software eng
 
 Proficient in Python, SQL, AWS, HTML, and CSS.
 
-## &#x1f4c8; GitHub Stats
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ptd3v&show_icons=true&hide=prs&rank_icon=github&hide_border=true"> | <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptd3v&layout=compact&size_weight=0.5&count_weight=0.5&hide_border=true" /> |
 | ------------- | ------------- |
