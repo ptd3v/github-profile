@@ -3,4 +3,4 @@ My name is Paul, a Computer Science graduate with an MBA, seeking a software eng
 
 Proficient in Python, SQL, AWS, HTML, and CSS.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ptd3v&show_icons=true&hide=prs&rank_icon=github"> <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptd3v&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=machine-learning-data-analysis" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ptd3v&show_icons=true&hide=prs&rank_icon=github"> <img align="center" height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ptd3v&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=machine-learning-data-analysis" />
